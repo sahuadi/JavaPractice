@@ -9,7 +9,7 @@ public class SimpleInterest {
 		int Time_Period      = 5;
 		Simple_Interest = (Principle_Amount*Rate_Of_Interest*Time_Period)/100;
 		System.out.println(Simple_Interest);
-		
+		System.out.println(Simple_Interest);
 
 	}
 
